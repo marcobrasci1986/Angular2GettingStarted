@@ -1,3 +1,6 @@
 angular-2-getting-started-update
 .idea
+node_modules
 
+*.js
+*.js.map
