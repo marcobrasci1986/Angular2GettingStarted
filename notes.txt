@@ -1,0 +1,7 @@
+!file[Angular2GettingStarted]:app/**/*.js&&!file[Angular2GettingStarted]:app/**/*.js.map&&!file[Angular2GettingStarted]:app/*.js&&!file[Angular2GettingStarted]:app/*.js.map
+
+
+
+Angular2GettingStarted -> root folder or module if you will
+
+Exclude all .js and .js.map files
