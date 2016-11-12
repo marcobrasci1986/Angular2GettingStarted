@@ -5,3 +5,13 @@
 Angular2GettingStarted -> root folder or module if you will
 
 Exclude all .js and .js.map files
+
+
+
+--------------------------------------------
+<ai-star
+                                [rating]="product.starRating"
+                                (ratingClicked)="onRatingClicked($event)"
+
+[rating] = propertyBinding
+(ratingClicked)="onRatingClicked($event)" = eventBinding
