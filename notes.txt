@@ -15,3 +15,6 @@ Exclude all .js and .js.map files
 
 [rating] = propertyBinding
 (ratingClicked)="onRatingClicked($event)" = eventBinding
+
+
+@Injectable -> Decorator (annotation)
