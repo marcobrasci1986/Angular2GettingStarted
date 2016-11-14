@@ -19,7 +19,7 @@ import {ProductDetailGuard} from "./products/pruduct-guard.service";
  * HttpModule -> $http service
  *
  * imports: external Angular Modules
- * declarations: add custom components
+ * declarations: add custom components, directive and pipe
  */
 @NgModule({
     imports: [

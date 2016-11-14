@@ -18,3 +18,5 @@ Exclude all .js and .js.map files
 
 
 @Injectable -> Decorator (annotation)
+
+Service always in AppModule -> shared throughout the application
